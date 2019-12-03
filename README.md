@@ -1,0 +1,2 @@
+# MinhaClinicaApp
+testeAzure
